@@ -1,0 +1,61 @@
+﻿@model FrontEnd.API.Models.Autos
+
+@{ ViewData["Title"] = "Details"; }
+
+<div class="container my-5">
+    <div class="row centered-box">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <img src="@("~/Image/"+ Model.Imagen)" asp-append-version="true" class="img-fluid mb-2" />
+                        </div>
+                        <div class="col-md-4">
+                            <h2><b>@Html.DisplayFor(model => model.Marca.Descripcion) @Html.DisplayFor(model => model.Modelo.Descripcion) @Html.DisplayFor(model => model.Anio)</b></h2>
+                            <h2><b></b>₡@Html.DisplayFor(model => model.Precio)</b></h2>
+                            <table class="table table-striped">
+                                <tr>
+                                    <td><b>Kilometraje</b></td>
+                                    <td>@Html.DisplayFor(model => model.Kilometraje)Km</td>
+                                </tr>
+                                <tr>
+                                    <td><b>Terminación de placa</b></td>
+                                    <td>@Html.DisplayFor(model => model.TerminacionPlaca)</td>
+                                </tr>
+                                <tr>
+                                    <td><b>Combustible</b></td>
+                                    <td>@Html.DisplayFor(model => model.Combustible.Descripcion)</td>
+                                </tr>
+                                <tr>
+                                    <td><b>Transmisión</b></td>
+                                    <td>@Html.DisplayFor(model => model.Transmision.Descripcion)</td>
+                                </tr>
+                                <tr>
+                                    <td><b>Tipo de Auto</b></td>
+                                    <td>@Html.DisplayFor(model => model.Tipo.Descripcion)</td>
+                                </tr>
+                                <tr>
+                                    <td><b>Color</b></td>
+                                    <td>@Html.DisplayFor(model => model.Color)</td>
+                                </tr>
+                                <tr>
+                                    <td><b>Vendedor</b></td>
+                                    <td>@Html.DisplayFor(model => model.User.Nombre)</td>
+                                </tr>
+                                <tr>
+                                    <td><b>Contacto</b></td>
+                                    <td>@Html.DisplayFor(model => model.User.PhoneNumber)</td>
+                                </tr>
+                                <tr>
+                                    <td><b>Correo</b></td>
+                                    <td>@Html.DisplayFor(model => model.User.Email)</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

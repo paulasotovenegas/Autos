@@ -1,0 +1,129 @@
+﻿@model IEnumerable<FrontEnd.API.Models.Autos>
+
+@{ ViewData["Title"] = "Index"; }
+
+
+<div class="container my-5">
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <div class="table-responsive">
+        <table class="table table-bordered table-sm">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Descripcion)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Precio)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Anio)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Kilometraje)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TerminacionPlaca)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Cpuertas)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Provincia)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Color)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FechaIngreso)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Imagen)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Combustible)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Estado)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Marca)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Modelo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Tipo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Transmision)
+                    </th>
+
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descripcion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Precio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Anio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kilometraje)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TerminacionPlaca)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cpuertas)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Provincia)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Color)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaIngreso)
+        </td>
+        <td>
+            <img src="@("~/Image/"+ item.Imagen)" asp-append-version="true" width="200px" height="100px" />
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Combustible.Descripcion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Estado.Descripcion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Marca.Descripcion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Modelo.Descripcion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tipo.Descripcion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Transmision.Descripcion)
+        </td>
+
+        <td>
+            <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+            <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+        </td>
+    </tr>
+}
+            </tbody>
+        </table>
+    </div>
+</div>

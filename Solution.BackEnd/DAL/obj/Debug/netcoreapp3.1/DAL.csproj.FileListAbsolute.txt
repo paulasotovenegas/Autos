@@ -1,0 +1,114 @@
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.Repository.dll
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\paula\source\repos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.Repository.dll
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\paula\source\repos\Git Proyecto Autos\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.DO.dll
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.EF.dll
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.Repository.dll
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+E:\11 Cuatrimestre\Programacion Avanzada Web\Sin Roles\ProyectoAutos\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.DO.dll
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.EF.dll
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.Repository.dll
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+E:\11 Cuatrimestre\Programacion Avanzada Web\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.Repository.dll
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Personal\Documents\Desarrollo\.NET\QUEMEQUEDA\Roles Implementados\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.DO.dll
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.EF.dll
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.Repository.dll
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+E:\11 Cuatrimestre\Programacion Avanzada Web\Clase 15\Solution.BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache

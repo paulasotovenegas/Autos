@@ -1,0 +1,96 @@
+﻿@model FrontEnd.API.Models.AutosViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@section Links{
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="~/css/swiper.css" />
+    <style>
+        header {
+            height: 100vh
+        }
+    </style>
+}
+
+@section Swiper{
+    <div class="swiper-container mySwiper">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="~/img/swiper/1.jpg" asp-append-version="true" class="img-fluid" /></div>
+            <div class="swiper-slide"><img src="~/img/swiper/2.jpg" asp-append-version="true" class="img-fluid" /></div>
+            <div class="swiper-slide"><img src="~/img/swiper/3.jpg" asp-append-version="true" class="img-fluid" /></div>
+            <div class="swiper-slide"><img src="~/img/swiper/4.jpg" asp-append-version="true" class="img-fluid" /></div>
+        </div>
+    </div>
+}
+<section id="busqueda" class="bg-primary text-white py-5">
+    <div class="container">
+        <h2>Buscar auto</h2>
+        <hr>
+        <form asp-controller="Home" asp-action="Index" method="get">
+            <div class="row">
+                <div class="col-md-3 mb-2">
+                    <label asp-for="Combustible" class="control-label"></label>
+                    <select asp-for="Combustible" class="form-control" asp-items="Model.Combustibles">
+                        <option value="">Todos</option>
+                    </select>
+                </div>
+                <div class="col-md-3 mb-2">
+                    <label asp-for="Estado" class="control-label"></label>
+                    <select asp-for="Estado" class="form-control" asp-items="Model.Estados">
+                        <option value="">Todos</option>
+                    </select>
+                </div>
+                <div class="col-md-3 mb-2">
+                    <label asp-for="Marca" class="control-label"></label>
+                    <select asp-for="Marca" class="form-control" asp-items="Model.Marcas">
+                        <option value="">Todos</option>
+                    </select>
+                </div>
+                <div class="col-md-3 mb-2">
+                    <label asp-for="Modelo" class="control-label"></label>
+                    <select asp-for="Modelo" class="form-control" asp-items="Model.Modelos">
+                        <option value="">Todos</option>
+                    </select>
+                </div>
+                <div class="col-md-3 mb-2">
+                    <label asp-for="Tipo" class="control-label"></label>
+                    <select asp-for="Tipo" class="form-control" asp-items="Model.Tipos">
+                        <option value="">Todos</option>
+                    </select>
+                </div>
+                <div class="col-md-3 mb-2">
+                    <label asp-for="Transmision" class="control-label"></label>
+                    <select asp-for="Transmision" class="form-control" asp-items="Model.Transmisiones">
+                        <option value="">Todos</option>
+                    </select>
+                </div>
+                <div class="col-md-3 ml-auto">
+                    <label>&nbsp;</label>
+                    <button type="submit" value="Filtrar" class="btn btn-primary btn-block">Buscar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
+
+<section id="recientes" class="bg-light py-5">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model.Autos)
+            {
+                <div class="col-sm-3 col-md-3 mb-3">
+                    <a asp-controller="Autos" asp-action="Details" asp-route-id="@item.Id"><img src="@("~/Image/"+ item.Imagen)" asp-append-version="true" class="contain mb-2" /></a>
+                    <a asp-controller="Autos" asp-action="Details" asp-route-id="@item.Id"><h5>@Html.DisplayFor(modelItem => item.Marca.Descripcion) @Html.DisplayFor(modelItem => item.Modelo.Descripcion) @Html.DisplayFor(modelItem => item.Anio)</h5></a>
+                    <h5 class="muted">₡ @Html.DisplayFor(modelItem => item.Precio)</h5>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+@section Scripts{
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+}

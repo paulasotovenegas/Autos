@@ -1,0 +1,33 @@
+﻿@model IEnumerable<FrontEnd.API.Models.UserViewModel>
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<body>
+    <div class="container-fluid py-4">
+        <h4 class="text-center text-uppercase">Employee List</h4>
+        <table class="table table-striped table-bordered">
+            <thead class="bg-dark text-white">
+                <tr>
+                    <th>Descripcion</th>
+                    <th>Marca</th>
+                    <th>Nombre</th>
+                   
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.auto.Descripcion</td>
+                        <td>@item.auto.Marca.Descripcion</td>
+                        <td>@item.user.Nombre</td>
+                       
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+</body>  

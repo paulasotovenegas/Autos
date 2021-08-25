@@ -1,0 +1,141 @@
+﻿@model FrontEnd.API.Models.Autos
+
+@{ ViewData["Title"] = "Edit"; }
+
+<div class="container">
+    <div class="row centered-box">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="text-center">Edit</h2>
+                    <hr>
+                    <form enctype="multipart/form-data" asp-action="Edit">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="Id" />
+                        <div class="row">
+                            <div class="col-md-6 mb-2">
+                                <label asp-for="Descripcion" class="control-label"></label>
+                                <input asp-for="Descripcion" class="form-control" />
+                                <span asp-validation-for="Descripcion" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-6 mb-2">
+                                <label asp-for="Precio" class="control-label"></label>
+                                <input asp-for="Precio" class="form-control" />
+                                <span asp-validation-for="Precio" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-6 mb-2">
+                                <label asp-for="Anio" class="control-label"></label>
+                                <input asp-for="Anio" class="form-control" />
+                                <span asp-validation-for="Anio" class="text-danger"></span>
+                            </div>
+                            <input type="hidden" asp-for="UserId" value="@ViewBag.userid" />
+                            <div class="col-md-6 mb-2">
+                                <label asp-for="Kilometraje" class="control-label"></label>
+                                <input asp-for="Kilometraje" class="form-control" />
+                                <span asp-validation-for="Kilometraje" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-6 mb-2">
+                                <label asp-for="TerminacionPlaca" class="control-label"></label>
+                                <input asp-for="TerminacionPlaca" class="form-control" />
+                                <span asp-validation-for="TerminacionPlaca" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-6 mb-2">
+                                <label asp-for="Cpuertas" class="control-label"></label>
+                                <input asp-for="Cpuertas" class="form-control" />
+                                <span asp-validation-for="Cpuertas" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-6 mb-2">
+                                <label asp-for="Provincia" class="control-label"></label>
+                                <input asp-for="Provincia" class="form-control" />
+                                <span asp-validation-for="Provincia" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-6 mb-2">
+                                <label asp-for="Color" class="control-label"></label>
+                                <input asp-for="Color" class="form-control" />
+                                <span asp-validation-for="Color" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-6 mb-2">
+                                <label asp-for="FechaIngreso" class="control-label"></label>
+                                <input asp-for="FechaIngreso" class="form-control" />
+                                <span asp-validation-for="FechaIngreso" class="text-danger"></span>
+                            </div>
+                            <input type="hidden" asp-for="UserId" value="@ViewBag.userid" />
+                            <div class="col-md-6 mb-2">
+                                <label asp-for="CombustibleId" class="control-label"></label>
+                                <select asp-for="CombustibleId" class="form-control" asp-items="ViewBag.CombustibleId"></select>
+                            </div>
+                            <div class="col-md-6 mb-2">
+                                <label asp-for="EstadoId" class="control-label"></label>
+                                <select asp-for="EstadoId" class="form-control" asp-items="ViewBag.EstadoId"></select>
+                            </div>
+                            <div class="col-md-6 mb-2">
+                                <label asp-for="MarcaId" class="control-label"></label>
+                                <select asp-for="MarcaId" class="form-control" asp-items="ViewBag.MarcaId">
+                                    <option value="">Seleccione una Marca</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="ModeloId" class="control-label"></label>
+                                <select asp-for="ModeloId" class="form-control" asp-items="ViewBag.ModeloId"></select>
+                                <span asp-validation-for="ModeloId" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-6 mb-2">
+                                <label asp-for="TipoId" class="control-label"></label>
+                                <select asp-for="TipoId" class="form-control" asp-items="ViewBag.TipoId"></select>
+                            </div>
+                            <div class="col-md-6 mb-2">
+                                <label asp-for="TransmisionId" class="control-label"></label>
+                                <select asp-for="TransmisionId" class="form-control" asp-items="ViewBag.TransmisionId"></select>
+                            </div>
+                            <div class="col-md-6 mb-2">
+                                <label asp-for="ImagenFile" class="control-label"></label>
+                                <input type="file" accept="image/*" asp-for="ImagenFile" />
+                                <span asp-validation-for="ImagenFile" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-12 mb-2">
+                                <input type="submit" value="Edit" class="btn btn-primary btn-block" />
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#MarcaId").change(function () {
+                var id = $(this).val();
+                $.ajax({
+                    url: '/Autos/GetModeloMarca',
+                    type: 'POST',
+                    dataType: 'json',
+                    data: { id: id },
+                    success: function (data) {
+                        var options = ' ';
+                        $.each(data, function (i, modelos) {
+
+                            response = Object.values(modelos);
+                            var modelos = response;
+                            console.log(modelos);
+                            options += '<option value="' + modelos[0] + '">' +
+                                modelos[1] + '</option>';
+                        });
+
+                        $("#ModeloId").prop('disabled', false).html(options);
+                    }
+                });
+            });
+        });
+    </script>
+}

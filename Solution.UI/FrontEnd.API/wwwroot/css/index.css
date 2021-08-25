@@ -1,0 +1,90 @@
+/* GENERAL */
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 70.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.6rem;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+  color: #3f51b5;
+}
+
+a:hover{
+  text-decoration: none;
+  color: #3f51b5;
+}
+
+.nav-link{
+  font-size: 2rem!important;
+  color: #fff!important;
+}
+
+.nav-link-index{
+  font-size: 2rem!important;
+  color: #000;
+}
+
+.main-title {
+  font-weight: 500;
+}
+
+.bg-primary {
+  background-color: #3f51b5 !important;
+}
+
+.bg-secondary {
+  background-color: #24285b !important;
+}
+
+.btn-primary{
+  background: #24285b!important;
+  border-color: #24285b!important;
+  font-size: medium;
+}
+
+.bg-light {
+  background-color: #f8f9fa !important;
+}
+
+.text-primary {
+  /*color: #3f51b5 !important;*/
+  color: #333 !important;
+  font-weight: 600;
+}
+/* GENERAL */
+
+/* HEADER */
+header {
+  position: relative;
+  overflow: hidden;
+}
+/* HEADER */
+
+.contain {
+  width: 100%;
+  height: 200px;
+  -o-object-fit: contain;
+  object-fit: contain;
+}
+
+.centered-box {
+  min-height: 75vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
