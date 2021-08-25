@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj": {}
+    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj": {}
   },
   "projects": {
-    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj": {
+    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj",
+        "projectUniqueName": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj",
         "projectName": "DAL.DO",
-        "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj",
+        "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj",
         "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
-        "outputPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.DO\\obj\\",
+        "outputPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.DO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paula\\AppData\\Roaming\\NuGet\\NuGet.Config",

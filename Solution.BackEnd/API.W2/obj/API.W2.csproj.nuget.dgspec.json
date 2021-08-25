@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\API.W2\\API.W2.csproj": {}
+    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\API.W2\\API.W2.csproj": {}
   },
   "projects": {
-    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\API.W2\\API.W2.csproj": {
+    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\API.W2\\API.W2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\API.W2\\API.W2.csproj",
+        "projectUniqueName": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\API.W2\\API.W2.csproj",
         "projectName": "API.W2",
-        "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\API.W2\\API.W2.csproj",
+        "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\API.W2\\API.W2.csproj",
         "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
-        "outputPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\API.W2\\obj\\",
+        "outputPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\API.W2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paula\\AppData\\Roaming\\NuGet\\NuGet.Config",

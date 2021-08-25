@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iKdz2amhd7heFWnPLrBssUegfbRkPaxKrHk8YgKltzYiXeCrZFIDYDmnHkQzie15YJ+5kip2Zh3I8NsGiVqAlw==",
+  "dgSpecHash": "IszwP8C6HiYlFLxQVOMgkDS+i2eiWgujcI0ok2OND16LKBrvieg+y7oY49ntxZ+RroHSUdARlWrjk6ae0NRBgQ==",
   "success": true,
-  "projectFilePath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\BS\\BS.csproj",
+  "projectFilePath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\BS\\BS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paula\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.9\\microsoft.aspnetcore.http.features.5.0.9.nupkg.sha512",
     "C:\\Users\\paula\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

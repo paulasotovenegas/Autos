@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.Repository\\DAL.Repository.csproj": {}
+    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.Repository\\DAL.Repository.csproj": {}
   },
   "projects": {
-    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj": {
+    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj",
+        "projectUniqueName": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj",
         "projectName": "DAL.DO",
-        "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj",
+        "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj",
         "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
-        "outputPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.DO\\obj\\",
+        "outputPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.DO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paula\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,14 +84,14 @@
         }
       }
     },
-    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.EF\\DAL.EF.csproj": {
+    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.EF\\DAL.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.EF\\DAL.EF.csproj",
+        "projectUniqueName": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.EF\\DAL.EF.csproj",
         "projectName": "DAL.EF",
-        "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.EF\\DAL.EF.csproj",
+        "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.EF\\DAL.EF.csproj",
         "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
-        "outputPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.EF\\obj\\",
+        "outputPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.EF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paula\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,8 +108,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj": {
-                "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj"
+              "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj": {
+                "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.DO\\DAL.DO.csproj"
               }
             }
           }
@@ -164,14 +164,14 @@
         }
       }
     },
-    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.Repository\\DAL.Repository.csproj": {
+    "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.Repository\\DAL.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.Repository\\DAL.Repository.csproj",
+        "projectUniqueName": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.Repository\\DAL.Repository.csproj",
         "projectName": "DAL.Repository",
-        "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.Repository\\DAL.Repository.csproj",
+        "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.Repository\\DAL.Repository.csproj",
         "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
-        "outputPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.Repository\\obj\\",
+        "outputPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paula\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -188,8 +188,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.EF\\DAL.EF.csproj": {
-                "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.BackEnd\\DAL.EF\\DAL.EF.csproj"
+              "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.EF\\DAL.EF.csproj": {
+                "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.BackEnd\\DAL.EF\\DAL.EF.csproj"
               }
             }
           }

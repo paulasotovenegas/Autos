@@ -8827,11 +8827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.UI\\FrontEnd.W2\\FrontEnd.W2.csproj",
+      "projectUniqueName": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.UI\\FrontEnd.W2\\FrontEnd.W2.csproj",
       "projectName": "FrontEnd.W2",
-      "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.UI\\FrontEnd.W2\\FrontEnd.W2.csproj",
+      "projectPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.UI\\FrontEnd.W2\\FrontEnd.W2.csproj",
       "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
-      "outputPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.UI\\FrontEnd.W2\\obj\\",
+      "outputPath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.UI\\FrontEnd.W2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paula\\AppData\\Roaming\\NuGet\\NuGet.Config",

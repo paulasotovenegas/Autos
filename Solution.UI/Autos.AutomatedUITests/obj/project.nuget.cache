@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Sz4PZYPvhyJ7q3lFXIgoUXS/TDpGIsz6e99mImOSaOl/TrmMaXWP5mGHmzypyRiZJdCR3H+j5iyrnzzyDbYZw==",
+  "dgSpecHash": "Kiv3vwn+Y80m4EMKo6K3AKLfxBH52OAXnNCEZerRHDvKY8r09pS/qbraTH8wxYyQqmYqtwnS4datBCx86EBb1Q==",
   "success": true,
-  "projectFilePath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Solution.UI\\Autos.AutomatedUITests\\Autos.AutomatedUITests.csproj",
+  "projectFilePath": "E:\\11 Cuatrimestre\\Programacion Avanzada Web\\Clase 15\\Proyecto_Autos_Repo\\Solution.UI\\Autos.AutomatedUITests\\Autos.AutomatedUITests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paula\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\paula\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
